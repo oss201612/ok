@@ -1,0 +1,16 @@
+body{
+    background-color: #F05941;
+}
+ul.nav{
+    background-color: #BE3144;
+}
+.nav-on-page{
+    background-color: #872341;
+}
+*{
+    color:#22092C;
+}
+li.nav-item a.item:hover {
+    background-color: #872341;
+    color:#22092C;
+}
