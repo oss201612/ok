@@ -46,15 +46,14 @@ body{
 .main{
     padding: 20px;
 }
-*{
-    font-family: 'Lemon', serif;
-    font-family: 'Marhey', sans-serif;
-}
 .top{
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    color: mediumseagreen;
+    font-family: 'Lemon', serif;
+    font-family: 'Marhey', sans-serif;
 }
 ul{
     list-style-image: url(foto/too);
@@ -86,4 +85,10 @@ h1, h2{
 
 .armor_gif{
     border-radius: 20%;
+}
+.carousel-item{
+    object-fit: center;
+    object-position: center;
+    height: 25vh;
+    overflow: hidden;
 }
